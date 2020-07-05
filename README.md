@@ -13,4 +13,4 @@ Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/First%2
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/ipl-first-innings-score-web-app.gif)
+ ![alt tag](https://github.com/akhiilkasare/IPL-score-predictor-using-machine-learning/blob/master/Screenshot%20from%202020-07-06%2004-23-01.png)
